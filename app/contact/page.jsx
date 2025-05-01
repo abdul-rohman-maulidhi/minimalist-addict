@@ -9,7 +9,7 @@ export default function Contact() {
     return (
         <div className="bg-gray-50 py-20">
             <div className="container text-center">
-                <h2 className="text-4xl font-semibold tracking-wide mb-6">Let's Talk Design</h2>
+                <h2 className="text-4xl font-semibold tracking-wide mb-6">Let&#39;s Talk Design</h2>
                 <p className="text-gray-600 text-lg mb-10">
                     Have a project in mind? Reach out and let&#39;s make something beautiful together.
                 </p>
