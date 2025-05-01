@@ -20,7 +20,7 @@ export default function HeroSection() {
                 </div>
 
                 <div className="w-1/2">
-                    <Image src="/image/kitchen.png" width={800} height={500} alt="" className="absolute right-0 xl:h-[448px] xl:w-[700px] lg:h-[344px] lg:w-[500px]  hidden lg:block" />
+                    <Image src="/image/kitchen.png" width={680} height={500} alt="" className="absolute right-0 xl:h-[448px] xl:w-[700px] lg:h-[344px] lg:w-[500px]  hidden lg:block" />
                 </div>
 
             </div>
